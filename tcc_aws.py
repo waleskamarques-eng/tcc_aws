@@ -7,7 +7,7 @@ from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 from docx.enum.style import WD_STYLE_TYPE
 
-out = "/mnt/data/TCC_AWS_Startup_XYZ.docx"
+out = "TCC_AWS_Startup_XYZ.docx"
 
 doc = Document()
 sec = doc.sections[0]
