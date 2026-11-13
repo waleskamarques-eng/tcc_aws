@@ -42,6 +42,11 @@ O material completo contém 15 páginas, incluindo:
 
 **Arquivo:** [Visualizar apresentação completa — Startup NuvemTech (PDF)](APRESENTA%C3%87%C3%83O%20-%20A-Jornada-da-Startup-NuvemTech%20-%202.pdf)
 
+### Documentação complementar
+
+- **TCC oficial (39 páginas):** [Consultar trabalho completo](TCC_NuvemTech.pdf)
+- **Manual do Portal NuvemTech (6 páginas):** [Consultar manual do usuário](Manual_Portal_NuvemTechStartup.pdf)
+
 ## Equipe
 
 Projeto desenvolvido em grupo por:
